@@ -1,78 +1,150 @@
-🚀 Daksh Jain
-⚡ Builder | Hackathon Player | Future Tech Beast
+# 🚀 Daksh Jain
 
-I don’t just write code.
-I build things that work in real life.
+### Full Stack Developer • Hackathon Builder • AI & Startup Enthusiast
 
-From hackathons to real-world problem solving — I focus on creating products, not just projects.
+> “While others are planning, I’m already building.”
 
-🧠 About Me
-🎯 Currently grinding in tech + fitness (discipline is everything)
-🏆 Active hackathon participant
-⚡ Love building startup-level web apps
-🔥 Into AI, full-stack development, and real-time systems
-💡 Believe in: “Execute fast, learn faster”
-💻 Tech Stack
+---
 
-Frontend
+## 💫 About Me
 
-HTML, CSS, JavaScript
-React (learning / building)
-UI/UX focused design
+I’m a passionate developer focused on building real-world products, not just tutorial projects.
+Currently exploring **Full Stack Development, AI integrations, Cybersecurity concepts, and scalable startup-style products**.
 
-Backend (Basic but growing)
+I enjoy turning ideas into working solutions through:
 
-Node.js (concepts)
-APIs & integrations
+* ⚡ Hackathons
+* 🧠 Problem Solving
+* 🌐 Web Development
+* 🤖 AI-powered systems
+* 🚀 MVP building
 
-Other Skills
+I believe in:
 
-Problem Solving (C++)
-Git & GitHub
-Building MVPs under pressure
-🚀 Projects
-🔹 StudyFlare
+> **Execute fast. Learn faster. Build consistently.**
 
-One-tap study partner & doubt-solving platform
+---
 
-AI-powered solutions
-Real-time student connections
-Built like a startup product
-🔹 ShieldHer
+## 🌐 Connect With Me
 
-Women safety focused hackathon project
+* 💼 LinkedIn: [Daksh Jain](https://www.linkedin.com/in/daksh-jain-09062007cr7/)
+* 🌍 Portfolio: [My Portfolio Website](https://dakshjainofficial.github.io/Daksh-jain-developer-portfolio-_07/)
+* 🧠 LeetCode: [jain_daksh_official](https://leetcode.com/u/jain_daksh_official/)
+* 💻 GitHub: You're already here 😄
 
-Smart alert system
-Safety-first design
-Built for real-world impact
-🔹 CyberGuard AI
+---
 
-Cybersecurity awareness + AI system
+# 💻 Tech Stack
 
-Detects threats (concept-based)
-Hackathon-ready execution
-🏆 Hackathons
-⚔️ Quantumard National Hackathon 2026
-🛡️ Cyber Carnival Hackathon
-More coming… (I don’t stop)
-📈 Current Goals
-🔥 Master Full Stack Development
-🤖 Go deep into AI + automation
-💼 Build startup-level products
-🧠 Become someone who can build anything
-⚡ Mindset
+### 🚀 Frontend
 
-“While others are planning, I’m already building.”
+* HTML5
+* CSS3
+* JavaScript
+* React.js *(learning + building)*
+* Responsive UI/UX Design
 
-📬 Connect With Me
-LinkedIn: (add your link here)
-GitHub: (you’re already here 😎)
-💥 Fun Fact
+### ⚙️ Backend
 
-I balance:
+* Node.js *(concepts & APIs)*
+* REST APIs
+* Backend Integrations
+
+### 🧠 Other Skills
+
+* C++ Problem Solving
+* Git & GitHub
+* Hackathon Development
+* MVP Building
+* Team Collaboration
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 StudyFlare
+
+> AI-powered study partner & doubt-solving platform
+
+✨ Features:
+
+* Real-time student collaboration
+* Smart study workflows
+* Startup-style product structure
+
+---
+
+## 🛡️ ShieldHer
+
+> Women safety focused hackathon project
+
+✨ Features:
+
+* Smart alert system
+* Safety-first architecture
+* Real-world impact focused
+
+---
+
+## 🤖 CyberGuard AI
+
+> AI + Cybersecurity awareness system
+
+✨ Features:
+
+* Threat detection concepts
+* AI-powered monitoring ideas
+* Hackathon-ready execution
+
+---
+
+# 🏆 Current Goals
+
+* 🔥 Master Full Stack Development
+* 🤖 Dive deeper into AI + Automation
+* 🧠 Improve DSA & Competitive Coding
+* 🚀 Build startup-level products
+* 🏆 Participate in major hackathons
+* 💼 Crack top tech internships & placements
+
+---
+
+# 📈 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/jain_daksh_official/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/daksh-jain-09062007cr7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://dakshjainofficial.github.io/Daksh-jain-developer-portfolio-_07/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DakshJainOfficial&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DakshJainOfficial&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# ⚡ Fun Fact
 
 🏃 Morning runs
 🏋️ Evening gym
 💻 Coding in between
 
-Consistency > Motivation.
+---
+
+<p align="center">
+  <b>Building. Learning. Improving. Repeating.</b>
+</p>
